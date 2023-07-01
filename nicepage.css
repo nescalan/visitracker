@@ -24870,7 +24870,7 @@ a.u-button-style.u-border-20 {
 }
 /*begin-variables font-family*/
 .u-body {
-  font-family: 'Open Sans',sans-serif;
+  font-family: Poppins;
 }
 h1,
 h2,
@@ -24899,7 +24899,7 @@ h6 {
 /*end-variables color*/
 /*begin-variables font*/
 .u-custom-font.u-text-font {
-  font-family: 'Open Sans',sans-serif !important;
+  font-family: Poppins !important;
 }
 .u-custom-font.u-heading-font {
   font-family: Poppins !important;
@@ -41274,13 +41274,13 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-sheet-1 {
-  min-height: 80px;
+  min-height: 82px;
 }
 
 .u-header .u-image-1 {
   width: 64px;
   height: 32px;
-  margin: 22px auto 0 0;
+  margin: 23px auto 0 0;
 }
 
 .u-header .u-logo-image-1 {
@@ -41289,7 +41289,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-menu-1 {
-  margin: -32px 0 22px auto;
+  margin: -33px 0 22px auto;
 }
 
 .u-header .u-nav-1 {
